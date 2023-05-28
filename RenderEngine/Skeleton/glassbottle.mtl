@@ -1,0 +1,45 @@
+# Material Count: 4
+newmtl glassbottleColor
+Ns 30.0000
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glassbottleColor .png
+
+
+newmtl glassbottleMetallic
+Ns 30.0000
+Ka 0.800000 0.800000 0.800000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glassbottleMetallic.1001.png
+
+
+newmtl glassbottleNormal
+Ns 30.0000
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glassbottleNormal.1001.png
+
+
+newmtl glassbottleRoughness
+Ns 30.0000
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glassbottleRoughness.1001.png
+
+
