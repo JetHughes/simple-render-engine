@@ -1,4 +1,4 @@
-# Python Sentence Translator
+# Simple Render Engine
 
 This is a simple render engine skeleton made in C++ with the OpenGL library. It provides a framework to render basic objects in a simple scene. The scene is rendered using Phong Shading, and Blinn Phong Reflection. It also renders transparent object and has 3 post effect shaders built-in.
 
