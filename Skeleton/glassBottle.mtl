@@ -1,0 +1,10 @@
+# Material Count: 1
+newmtl Material.001
+Ns 30.0000
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 0.30000 0.30000 0.30000
+Ni 1.000000
+d 1
+illum 3
+map_Kd bottleColor24.bmp

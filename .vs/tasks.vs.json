@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Part02",
+      "appliesTo": "Part02/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Part01",
+      "appliesTo": "Part01/",
+      "type": "launch"
+    }
+  ]
+}

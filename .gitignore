@@ -1,2 +1,8 @@
-RenderEngine/out/
-RenderEngine/.vs/RenderEngine/
+# Ignore Build Files
+out/
+
+# Ignore Visual Studio Files
+.vs/RenderEngine
+
+# Ignore VSCode files
+.vscode/
