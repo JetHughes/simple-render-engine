@@ -1,7 +1,7 @@
 /*
  * renderApp.cpp
  *
- * by Stefanie Zollmann
+ * by Stefanie Zollmann, Jet Hughes
  *
  * Basic model loading with assimp library
  *
