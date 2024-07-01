@@ -19,8 +19,5 @@ I used Visual Studio with vcpkg package manager.
 1. Run the program
 2. Use the buttons 1, 2, 3 and 4 to choose the render mode
 
-## Contributing
-Contributions are welcome! If you have suggestions for improving the program or find any issues, please create a pull request or submit an issue.
-
 ## License
 This program is licensed under the [MIT License](https://opensource.org/licenses/MIT).
